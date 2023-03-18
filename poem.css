@@ -1,0 +1,37 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: #ee9ca7 !important;
+  align-content: center;
+}
+
+.text {
+    color: #8b6a60;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-style:italic;
+    text-align: center; 
+}
+
+.text>h1 {
+    font-size: 1.8em;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+
+p {
+    color: whitesmoke;
+    font-size: 1.8em;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+}
