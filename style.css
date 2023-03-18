@@ -122,6 +122,7 @@ p {
     font-weight: bolder;
 }
 
-.container {
-  margin: 50% auto;
+img {
+  width: 500px;
+  height: 500px;
 }
